@@ -1,0 +1,13 @@
+C:\Users\washi\Desktop\projetoSenha\bin\Debug\netcoreapp3.1\projetoSenha.exe
+C:\Users\washi\Desktop\projetoSenha\bin\Debug\netcoreapp3.1\projetoSenha.deps.json
+C:\Users\washi\Desktop\projetoSenha\bin\Debug\netcoreapp3.1\projetoSenha.runtimeconfig.json
+C:\Users\washi\Desktop\projetoSenha\bin\Debug\netcoreapp3.1\projetoSenha.runtimeconfig.dev.json
+C:\Users\washi\Desktop\projetoSenha\bin\Debug\netcoreapp3.1\projetoSenha.dll
+C:\Users\washi\Desktop\projetoSenha\bin\Debug\netcoreapp3.1\projetoSenha.pdb
+C:\Users\washi\Desktop\projetoSenha\obj\Debug\netcoreapp3.1\projetoSenha.csprojAssemblyReference.cache
+C:\Users\washi\Desktop\projetoSenha\obj\Debug\netcoreapp3.1\projetoSenha.AssemblyInfoInputs.cache
+C:\Users\washi\Desktop\projetoSenha\obj\Debug\netcoreapp3.1\projetoSenha.AssemblyInfo.cs
+C:\Users\washi\Desktop\projetoSenha\obj\Debug\netcoreapp3.1\projetoSenha.csproj.CoreCompileInputs.cache
+C:\Users\washi\Desktop\projetoSenha\obj\Debug\netcoreapp3.1\projetoSenha.dll
+C:\Users\washi\Desktop\projetoSenha\obj\Debug\netcoreapp3.1\projetoSenha.pdb
+C:\Users\washi\Desktop\projetoSenha\obj\Debug\netcoreapp3.1\projetoSenha.genruntimeconfig.cache
